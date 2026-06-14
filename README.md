@@ -74,10 +74,10 @@
 <div align="center">
 
 <a href="https://github.com/david-aistudio/hera">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=david-aistudio&repo=hera&theme=radical&border_color=6e40c9&icon_color=6e40c9&title_color=ffffff&text_color=c9d1d9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=david-aistudio&repo=hera&theme=radical&border_color=6e40c9&icon_color=6e40c9&title_color=ffffff&text_color=c9d1d9&cache_seconds=86400" />
 </a>
 <a href="https://github.com/david-aistudio/WllmConcept">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=david-aistudio&repo=WllmConcept&theme=radical&border_color=6e40c9&icon_color=6e40c9&title_color=ffffff&text_color=c9d1d9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=david-aistudio&repo=WllmConcept&theme=radical&border_color=6e40c9&icon_color=6e40c9&title_color=ffffff&text_color=c9d1d9&cache_seconds=86400" />
 </a>
 
 </div>
@@ -134,7 +134,7 @@
 <br/>
 <br/>
 
-![Wave](https://raw.githubusercontent.com/Trilokia/Trilokia/master/Bottie.gif" width="100")
+<img src="https://user-images.githubusercontent.com/74038190/212257468-0d90b1a8-54c0-4b12-9d14-2b31b1e4e3c3.gif" width="60">
 
 **Thanks for visiting!** 🚀
 
