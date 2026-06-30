@@ -21,9 +21,9 @@
 
 ```
 ╭──────────────────────────────────────────────────────╮
-│                                                      │
-│  👋  Hey, I'm D4vd                                   │
-│  🇮🇩  16 y/o from Indonesia                          │
+│                                                      |
+│  👋  Hey, I'm D4vd                                   |
+│  🇮🇩  17 y/o from Indonesia                          │
 │  🤖  Building AI coding agents that actually learn   │
 │  🧠  Obsessed with how AI thinks under the hood      │
 │  🏢  Founder @ HuanimeCompany                        │
