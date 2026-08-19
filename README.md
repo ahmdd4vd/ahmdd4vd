@@ -11,31 +11,26 @@
 </p>
 
 <p align="center">
-  <img src="assets/stack.svg" width="860" alt="stack — languages · frontend · backend" />
+  <img src="assets/stack.svg" width="860" alt="Stack overview: core languages, build tools, and shipping tools" />
 </p>
 
 ---
 
-<p align="center"><sub style="color:#8b949e;letter-spacing:0.08em">SECURITY — DISCLOSED &amp; LEARNED</sub></p>
-
-### Security
+## Security & Lessons
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2400&pause=1500&color=c9d1d9&center=true&vCenter=true&width=700&height=28&lines=%24+HeyGen+bruteforce+%E2%86%92+disclosed+%E2%86%92+rewarded;%24+Donghuax+170k+%E2%86%92+patched+%E2%86%92+shut+down+%26+owned;%24+principle+%E2%80%94+respect+the+boundaries+you+test" alt="security timeline" /></a><br/>
-  <sub style="color:#484f58">timeline — not a trophy</sub>
+  <img src="assets/security.svg" width="100%" alt="Security and lessons: responsible disclosure, hard lessons, and better systems" />
 </p>
 
-Found and disclosed a promo bruteforce at HeyGen — free 3-month Premium codes could be enumerated via script to mint accounts. Reported directly before any misuse. Rewarded for disclosure, not exploitation. The fix shipped, the report stayed private.
+**Responsible disclosure.** Found and disclosed a promo bruteforce at HeyGen — free 3-month Premium codes could be enumerated via script to mint accounts. Reported directly before any misuse. Rewarded for disclosure, not exploitation. The fix shipped, the report stayed private.
 
-Later, reverse-engineered a hardened anime streaming API with Frida and rooted AVD, built Donghuax to 170k users on a MongoDB cache. When the dev patched and the remaining data kept serving, the line became clear. Shut it down, owned the mistake. Useful technique, wrong application.
+**A hard lesson.** Later, reverse-engineered a hardened anime streaming API with Frida and rooted AVD, built Donghuax to 170k users on a MongoDB cache. When the dev patched and the remaining data kept serving, the line became clear. Shut it down, owned the mistake. Useful technique, wrong application.
 
 Since then, I build systems that respect the boundaries they test.
 
 ---
 
-<p align="center"><sub style="color:#8b949e;letter-spacing:0.08em">STATS — PUBLIC SIGNAL</sub></p>
-
-### Stats
+## Stats
 
 <p align="center">
   <a href="https://github.com/ahmdd4vd"><img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmdd4vd&theme=tokyonight" alt="stats" /></a>
@@ -54,9 +49,7 @@ Since then, I build systems that respect the boundaries they test.
 
 ---
 
-<p align="center"><sub style="color:#8b949e;letter-spacing:0.08em">ACTIVITY — LAST 31 DAYS</sub></p>
-
-### Activity
+## Activity
 
 <p align="center">
   <a href="https://github.com/ahmdd4vd"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmdd4vd&theme=tokyo-night&bg_color=0d1117&color=8b949e&line=58a6ff&point=58a6ff&area=true&area_color=21262d&hide_border=true" width="880" alt="activity graph" /></a>
@@ -72,9 +65,7 @@ Since then, I build systems that respect the boundaries they test.
 
 ---
 
-<p align="center"><sub style="color:#8b949e;letter-spacing:0.08em">BUILT &amp; SHIPPED</sub></p>
-
-### Featured
+## Featured
 
 | Project | Stack | Signal |
 |---|---|---|
@@ -87,9 +78,7 @@ Since then, I build systems that respect the boundaries they test.
 
 ---
 
-<p align="center"><sub style="color:#8b949e;letter-spacing:0.08em">CONNECT</sub></p>
-
-### Connect
+## Connect
 
 <p align="center">
   <a href="https://www.instagram.com/ahmaddvd_01"><img src="https://img.shields.io/badge/Instagram-ahmaddvd__01-0d1117?style=for-the-badge&logo=instagram&logoColor=58a6ff&labelColor=21262d&color=21262d" alt="instagram" /></a>
