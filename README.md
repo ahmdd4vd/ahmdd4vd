@@ -80,13 +80,18 @@ Since then, I build systems that respect the boundaries they test.
 ### Stats
 
 <p align="center">
-  <a href="https://github.com/ahmdd4vd"><img width="49%" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=ahmdd4vd&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0d1117&border_color=21262d&title_color=58a6ff&icon_color=bc8cff&text_color=c9d1d9&border_radius=6&count_private=true&include_all_commits=false&rank_icon=github&cache_seconds=1800" alt="stats" /></a>
-  <a href="https://github.com/ahmdd4vd"><img width="49%" src="https://streak-stats.demolab.com?user=ahmdd4vd&theme=tokyonight&background=0d1117&border=21262d&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakLabel=bc8cff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&hide_border=false" alt="streak" /></a>
+  <a href="https://github.com/ahmdd4vd"><img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmdd4vd&theme=tokyonight" alt="stats" /></a>
+  <a href="https://github.com/ahmdd4vd"><img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmdd4vd&theme=tokyonight" alt="repos per language" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ahmdd4vd"><img width="49%" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=ahmdd4vd&layout=compact&theme=tokyonight&hide_border=false&bg_color=0d1117&border_color=21262d&title_color=58a6ff&text_color=c9d1d9&icon_color=bc8cff&border_radius=6&langs_count=6&hide=html,css&card_width=320&cache_seconds=1800" alt="top langs" /></a>
-  <a href="https://github.com/ahmdd4vd"><img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmdd4vd&theme=tokyonight" alt="summary stats" /></a>
+  <a href="https://github.com/ahmdd4vd"><img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmdd4vd&theme=tokyonight" alt="most commit language" /></a>
+  <a href="https://github.com/ahmdd4vd"><img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmdd4vd&theme=tokyonight&utcOffset=7" alt="productive time" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ahmdd4vd"><img width="49%" src="https://streak-stats.demolab.com?user=ahmdd4vd&theme=tokyonight&background=0d1117&border=21262d&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakLabel=bc8cff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&hide_border=false" alt="streak" /></a>
+  <a href="https://github.com/ahmdd4vd"><img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmdd4vd&theme=tokyonight" alt="profile details" /></a>
 </p>
 
 ---
@@ -113,15 +118,14 @@ Since then, I build systems that respect the boundaries they test.
 
 ### Featured
 
-<p align="center">
-  <a href="https://github.com/ahmdd4vd/K-12-reverse"><img width="49%" src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=ahmdd4vd&repo=K-12-reverse&theme=tokyonight&hide_border=false&bg_color=0d1117&border_color=21262d&title_color=58a6ff&icon_color=bc8cff&text_color=8b949e&border_radius=6&show_owner=false" alt="K-12-reverse" /></a>
-  <a href="https://github.com/ahmdd4vd/Fable5res"><img width="49%" src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=ahmdd4vd&repo=Fable5res&theme=tokyonight&hide_border=false&bg_color=0d1117&border_color=21262d&title_color=58a6ff&icon_color=bc8cff&text_color=8b949e&border_radius=6&show_owner=false" alt="Fable5res" /></a>
-</p>
+| Project | Stack | Signal |
+|---|---|---|
+| [**K-12-reverse**](https://github.com/ahmdd4vd/K-12-reverse) — bulk ChatGPT account automation with K12 invite & IMAP | `Go` | ![stars](https://img.shields.io/github/stars/ahmdd4vd/K-12-reverse?style=flat-square&labelColor=21262d&color=0d1117&logoColor=58a6ff) ![forks](https://img.shields.io/github/forks/ahmdd4vd/K-12-reverse?style=flat-square&labelColor=21262d&color=0d1117) |
+| [**Fable5res**](https://github.com/ahmdd4vd/Fable5res) — 4,665 Fable 5 traces distilled, Grade A emulation vs MiniMax M3 | `JavaScript` | ![stars](https://img.shields.io/github/stars/ahmdd4vd/Fable5res?style=flat-square&labelColor=21262d&color=0d1117&logoColor=58a6ff) ![forks](https://img.shields.io/github/forks/ahmdd4vd/Fable5res?style=flat-square&labelColor=21262d&color=0d1117) |
+| [**deepseek-harness**](https://github.com/ahmdd4vd/deepseek-harness) — fork, plugin harness | `—` | ![stars](https://img.shields.io/github/stars/ahmdd4vd/deepseek-harness?style=flat-square&labelColor=21262d&color=0d1117&logoColor=58a6ff) |
+| [**ahmdd4vd**](https://github.com/ahmdd4vd/ahmdd4vd) — this profile | `—` | ![stars](https://img.shields.io/github/stars/ahmdd4vd/ahmdd4vd?style=flat-square&labelColor=21262d&color=0d1117&logoColor=58a6ff) |
 
-<p align="center">
-  <a href="https://github.com/ahmdd4vd/deepseek-harness"><img width="49%" src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=ahmdd4vd&repo=deepseek-harness&theme=tokyonight&hide_border=false&bg_color=0d1117&border_color=21262d&title_color=58a6ff&icon_color=bc8cff&text_color=8b949e&border_radius=6&show_owner=false" alt="deepseek-harness" /></a>
-  <a href="https://github.com/ahmdd4vd/ahmdd4vd"><img width="49%" src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=ahmdd4vd&repo=ahmdd4vd&theme=tokyonight&hide_border=false&bg_color=0d1117&border_color=21262d&title_color=58a6ff&icon_color=bc8cff&text_color=8b949e&border_radius=6&show_owner=false" alt="ahmdd4vd" /></a>
-</p>
+> Previous dynamic pin cards (`github-readme-stats/api/pin`) were removed — that public Vercel instance is currently rate-limited (`Something went wrong / 503`). This table uses `shields.io` badges (cached, no rate-limit wall) so it always renders. To restore pins, deploy your own instance: fork `anuraghazra/github-readme-stats` → Vercel → set `PAT_1` env → update URLs.
 
 ---
 
