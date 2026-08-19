@@ -74,8 +74,6 @@ Since then, I build systems that respect the boundaries they test.
 | [**deepseek-harness**](https://github.com/ahmdd4vd/deepseek-harness) — fork, plugin harness | `—` | ![stars](https://img.shields.io/github/stars/ahmdd4vd/deepseek-harness?style=flat-square&labelColor=21262d&color=0d1117&logoColor=58a6ff) |
 | [**ahmdd4vd**](https://github.com/ahmdd4vd/ahmdd4vd) — this profile | `—` | ![stars](https://img.shields.io/github/stars/ahmdd4vd/ahmdd4vd?style=flat-square&labelColor=21262d&color=0d1117&logoColor=58a6ff) |
 
-> Previous dynamic pin cards (`github-readme-stats/api/pin`) were removed — that public Vercel instance is currently rate-limited (`Something went wrong / 503`). This table uses `shields.io` badges (cached, no rate-limit wall) so it always renders. To restore pins, deploy your own instance: fork `anuraghazra/github-readme-stats` → Vercel → set `PAT_1` env → update URLs.
-
 ---
 
 ## Connect
