@@ -67,6 +67,11 @@ const ahmd4vd = {
 
 ### Security
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2400&pause=1500&color=58a6ff&center=true&vCenter=true&width=700&height=28&lines=%24+HeyGen+bruteforce+%E2%86%92+disclosed+%E2%86%92+rewarded;%24+Donghuax+170k+%E2%86%92+patched+%E2%86%92+shut+down+%26+owned;%24+principle+%E2%80%94+respect+the+boundaries+you+test" alt="security timeline" /></a><br/>
+  <sub style="color:#484f58">timeline — not a trophy</sub>
+</p>
+
 Found and disclosed a promo bruteforce at HeyGen — free 3-month Premium codes could be enumerated via script to mint accounts. Reported directly before any misuse. Rewarded for disclosure, not exploitation. The fix shipped, the report stayed private.
 
 Later, reverse-engineered a hardened anime streaming API with Frida and rooted AVD, built Donghuax to 170k users on a MongoDB cache. When the dev patched and the remaining data kept serving, the line became clear. Shut it down, owned the mistake. Useful technique, wrong application.
