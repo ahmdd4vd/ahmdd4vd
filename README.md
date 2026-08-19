@@ -10,34 +10,10 @@
   <a href="https://www.instagram.com/ahmaddvd_01"><img src="https://img.shields.io/badge/ahmaddvd__01-0d1117?style=flat-square&labelColor=21262d&color=0d1117&logo=instagram&logoColor=8b949e" alt="ig" /></a>
 </p>
 
-<div align="center">
-
-<!-- window chrome -->
-<img src="https://img.shields.io/badge/%E2%97%8F%20%E2%97%8F%20%E2%97%8F%20ahmd4vd%20%E2%80%94%20zsh%20%E2%80%94%2080x24-0D1117?style=flat&labelColor=0D1117&color=0D1117" alt="window chrome" />
-
-</div>
-
-```bash
-$ whoami
-  ahmd4vd — Ahmad · Indonesia — engineer
-
-$ stack --daily
-  TypeScript + React  ·  Kotlin + Jetpack Compose  ·  Go + Python
-
-$ stack --data
-  PostgreSQL · MongoDB  — data that holds
-
-$ shipped
-  K-12-reverse  (Go · 41★ bulk ChatGPT automation)
-  Fable5res     (JS · 13★ · 4,665 Fable 5 traces distilled to signal)
-
-$ focus
-  automation that holds · interfaces that don't fight the user
-```
-
 <p align="center">
-  <sub style="color:#8b949e">Go · Python · Kotlin · TypeScript · React / Next · Tailwind · PostgreSQL · MongoDB · Docker</sub><br/>
-  <sub style="color:#484f58">daily: TS + React + Compose · Go + Python where it counts · data: PG / Mongo</sub>
+  <sub style="color:#8b949e;letter-spacing:0.14em">GO · PYTHON · KOTLIN · TYPESCRIPT</sub><br/>
+  <span style="color:#c9d1d9;letter-spacing:0.02em">React / Next · Tailwind · PostgreSQL · MongoDB · Docker</span><br/>
+  <sub style="color:#484f58;letter-spacing:0.06em">K-12-reverse 41★ · Fable5res 4,665 traces distilled</sub>
 </p>
 
 ---
@@ -123,6 +99,6 @@ Since then, I build systems that respect the boundaries they test.
   <a href="mailto:papengcepoko@gmail.com"><img src="https://img.shields.io/badge/Email-papengcepoko%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff&labelColor=21262d&color=21262d" alt="email" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&fontSize=18&fontColor=58a6ff&fontAlign=50&animation=fadeIn&stroke=21262d&strokeWidth=0&bgColor=0d1117" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=1&section=header&text=&fontSize=1&fontColor=21262d&bgColor=21262d" width="100%" />
 
-<p align="center"><sub style="color:#484f58">ahmd4vd — crafting with care in #0d1117 · Indonesia</sub></p>
+<p align="center"><sub style="color:#484f58">ahmd4vd</sub></p>
