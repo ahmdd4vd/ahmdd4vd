@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&height=140&section=header&text=ahmd4vd&fontSize=52&fontColor=58a6ff&fontAlign=50&fontAlignY=36&desc=Ahmad%20%E2%80%94%20Indonesia%20%E2%80%A2%20Go%20%E2%80%A2%20Python%20%E2%80%A2%20Kotlin%20%E2%80%A2%20TypeScript&descSize=13&descAlign=50&descAlignY=58&stroke=21262d&strokeWidth=1&bgColor=0d1117" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=130&section=header&text=ahmd4vd&fontSize=54&fontColor=c9d1d9&fontAlign=50&fontAlignY=38&desc=Ahmad%20%E2%80%94%20Indonesia%20%E2%80%A2%20Go%20%E2%80%A2%20Python%20%E2%80%A2%20Kotlin%20%E2%80%A2%20TypeScript&descSize=12&descAlign=50&descAlignY=60&stroke=21262d&strokeWidth=0&bgColor=0d1117" width="100%" />
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2600&pause=1400&color=8b949e&center=true&vCenter=true&width=680&height=22&lines=%24+whoami+%E2%80%94+ahmd4vd+%E2%80%A2+Ahmad+%28ID%29;%24+stack+--daily+%E2%80%94+TS+%2B+React+%E2%80%A2+Kotlin+%2B+Compose+%E2%80%A2+Go+%2B+Python;%24+shipped+%E2%80%94+K-12-reverse+41%E2%98%85+%E2%80%A2+Fable5res+13%E2%98%85" alt="typing" /></a>
@@ -47,7 +47,7 @@ $ focus
 ### Security
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2400&pause=1500&color=58a6ff&center=true&vCenter=true&width=700&height=28&lines=%24+HeyGen+bruteforce+%E2%86%92+disclosed+%E2%86%92+rewarded;%24+Donghuax+170k+%E2%86%92+patched+%E2%86%92+shut+down+%26+owned;%24+principle+%E2%80%94+respect+the+boundaries+you+test" alt="security timeline" /></a><br/>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2400&pause=1500&color=c9d1d9&center=true&vCenter=true&width=700&height=28&lines=%24+HeyGen+bruteforce+%E2%86%92+disclosed+%E2%86%92+rewarded;%24+Donghuax+170k+%E2%86%92+patched+%E2%86%92+shut+down+%26+owned;%24+principle+%E2%80%94+respect+the+boundaries+you+test" alt="security timeline" /></a><br/>
   <sub style="color:#484f58">timeline — not a trophy</sub>
 </p>
 
@@ -74,7 +74,7 @@ Since then, I build systems that respect the boundaries they test.
 </p>
 
 <p align="center">
-  <a href="https://github.com/ahmdd4vd"><img width="49%" src="https://streak-stats.demolab.com?user=ahmdd4vd&theme=tokyonight&background=0d1117&border=21262d&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakLabel=bc8cff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&hide_border=false" alt="streak" /></a>
+  <a href="https://github.com/ahmdd4vd"><img width="49%" src="https://streak-stats.demolab.com?user=ahmdd4vd&theme=tokyonight&background=0d1117&border=21262d&stroke=21262d&ring=58a6ff&fire=8b949e&currStreakLabel=8b949e&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=8b949e&dates=8b949e&hide_border=false" alt="streak" /></a>
   <a href="https://github.com/ahmdd4vd"><img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmdd4vd&theme=tokyonight" alt="profile details" /></a>
 </p>
 
@@ -85,7 +85,7 @@ Since then, I build systems that respect the boundaries they test.
 ### Activity
 
 <p align="center">
-  <a href="https://github.com/ahmdd4vd"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmdd4vd&theme=tokyo-night&bg_color=0d1117&color=8b949e&line=58a6ff&point=bc8cff&area=true&area_color=58a6ff&hide_border=true" width="880" alt="activity graph" /></a>
+  <a href="https://github.com/ahmdd4vd"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmdd4vd&theme=tokyo-night&bg_color=0d1117&color=8b949e&line=58a6ff&point=58a6ff&area=true&area_color=21262d&hide_border=true" width="880" alt="activity graph" /></a>
 </p>
 
 <p align="center"><sub style="color:#8b949e">Built in public — last 31 days</sub></p>
