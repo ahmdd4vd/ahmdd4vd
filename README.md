@@ -80,13 +80,13 @@ Since then, I build systems that respect the boundaries they test.
 ### Stats
 
 <p align="center">
-  <a href="https://github.com/ahmdd4vd"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=ahmdd4vd&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0d1117&border_color=21262d&title_color=58a6ff&icon_color=bc8cff&text_color=c9d1d9&border_radius=6&count_private=true&include_all_commits=false&rank_icon=github&cache_seconds=1800" alt="stats" /></a>
+  <a href="https://github.com/ahmdd4vd"><img width="49%" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=ahmdd4vd&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0d1117&border_color=21262d&title_color=58a6ff&icon_color=bc8cff&text_color=c9d1d9&border_radius=6&count_private=true&include_all_commits=false&rank_icon=github&cache_seconds=1800" alt="stats" /></a>
   <a href="https://github.com/ahmdd4vd"><img width="49%" src="https://streak-stats.demolab.com?user=ahmdd4vd&theme=tokyonight&background=0d1117&border=21262d&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakLabel=bc8cff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&hide_border=false" alt="streak" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ahmdd4vd"><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdd4vd&layout=compact&theme=tokyonight&hide_border=false&bg_color=0d1117&border_color=21262d&title_color=58a6ff&text_color=c9d1d9&icon_color=bc8cff&border_radius=6&langs_count=6&hide=html,css&card_width=320&cache_seconds=1800" alt="top langs" /></a>
-  <a href="https://github.com/ahmdd4vd"><img width="49%" src="https://github-profile-trophy.vercel.app/?username=ahmdd4vd&theme=tokyonight&no-frame=false&no-bg=false&column=4&margin-w=8&margin-h=8" alt="trophy" /></a>
+  <a href="https://github.com/ahmdd4vd"><img width="49%" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=ahmdd4vd&layout=compact&theme=tokyonight&hide_border=false&bg_color=0d1117&border_color=21262d&title_color=58a6ff&text_color=c9d1d9&icon_color=bc8cff&border_radius=6&langs_count=6&hide=html,css&card_width=320&cache_seconds=1800" alt="top langs" /></a>
+  <a href="https://github.com/ahmdd4vd"><img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmdd4vd&theme=tokyonight" alt="summary stats" /></a>
 </p>
 
 ---
@@ -114,13 +114,13 @@ Since then, I build systems that respect the boundaries they test.
 ### Featured
 
 <p align="center">
-  <a href="https://github.com/ahmdd4vd/K-12-reverse"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmdd4vd&repo=K-12-reverse&theme=tokyonight&hide_border=false&bg_color=0d1117&border_color=21262d&title_color=58a6ff&icon_color=bc8cff&text_color=8b949e&border_radius=6&show_owner=false" alt="K-12-reverse" /></a>
-  <a href="https://github.com/ahmdd4vd/Fable5res"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmdd4vd&repo=Fable5res&theme=tokyonight&hide_border=false&bg_color=0d1117&border_color=21262d&title_color=58a6ff&icon_color=bc8cff&text_color=8b949e&border_radius=6&show_owner=false" alt="Fable5res" /></a>
+  <a href="https://github.com/ahmdd4vd/K-12-reverse"><img width="49%" src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=ahmdd4vd&repo=K-12-reverse&theme=tokyonight&hide_border=false&bg_color=0d1117&border_color=21262d&title_color=58a6ff&icon_color=bc8cff&text_color=8b949e&border_radius=6&show_owner=false" alt="K-12-reverse" /></a>
+  <a href="https://github.com/ahmdd4vd/Fable5res"><img width="49%" src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=ahmdd4vd&repo=Fable5res&theme=tokyonight&hide_border=false&bg_color=0d1117&border_color=21262d&title_color=58a6ff&icon_color=bc8cff&text_color=8b949e&border_radius=6&show_owner=false" alt="Fable5res" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ahmdd4vd/deepseek-harness"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmdd4vd&repo=deepseek-harness&theme=tokyonight&hide_border=false&bg_color=0d1117&border_color=21262d&title_color=58a6ff&icon_color=bc8cff&text_color=8b949e&border_radius=6&show_owner=false" alt="deepseek-harness" /></a>
-  <a href="https://github.com/ahmdd4vd/ahmdd4vd"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmdd4vd&repo=ahmdd4vd&theme=tokyonight&hide_border=false&bg_color=0d1117&border_color=21262d&title_color=58a6ff&icon_color=bc8cff&text_color=8b949e&border_radius=6&show_owner=false" alt="ahmdd4vd" /></a>
+  <a href="https://github.com/ahmdd4vd/deepseek-harness"><img width="49%" src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=ahmdd4vd&repo=deepseek-harness&theme=tokyonight&hide_border=false&bg_color=0d1117&border_color=21262d&title_color=58a6ff&icon_color=bc8cff&text_color=8b949e&border_radius=6&show_owner=false" alt="deepseek-harness" /></a>
+  <a href="https://github.com/ahmdd4vd/ahmdd4vd"><img width="49%" src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=ahmdd4vd&repo=ahmdd4vd&theme=tokyonight&hide_border=false&bg_color=0d1117&border_color=21262d&title_color=58a6ff&icon_color=bc8cff&text_color=8b949e&border_radius=6&show_owner=false" alt="ahmdd4vd" /></a>
 </p>
 
 ---
