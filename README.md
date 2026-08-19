@@ -11,9 +11,7 @@
 </p>
 
 <p align="center">
-  <sub style="color:#8b949e;letter-spacing:0.14em">GO · PYTHON · KOTLIN · TYPESCRIPT</sub><br/>
-  <span style="color:#c9d1d9;letter-spacing:0.02em">React / Next · Tailwind · PostgreSQL · MongoDB · Docker</span><br/>
-  <sub style="color:#484f58;letter-spacing:0.06em">K-12-reverse 41★ · Fable5res 4,665 traces distilled</sub>
+  <img src="assets/stack.svg" width="860" alt="stack — languages · frontend · backend" />
 </p>
 
 ---
