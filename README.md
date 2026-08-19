@@ -1,64 +1,43 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&text=ahmd4vd&fontSize=42&fontColor=58a6ff&fontAlign=50&fontAlignY=32&desc=Systems%20built%20right&descSize=16&descAlign=50&descAlignY=52&animation=fadeIn&stroke=21262d&strokeWidth=0&bgColor=0d1117" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=140&section=header&text=ahmd4vd&fontSize=52&fontColor=58a6ff&fontAlign=50&fontAlignY=36&desc=Ahmad%20%E2%80%94%20Indonesia%20%E2%80%A2%20Go%20%E2%80%A2%20Python%20%E2%80%A2%20Kotlin%20%E2%80%A2%20TypeScript&descSize=13&descAlign=50&descAlignY=58&stroke=21262d&strokeWidth=1&bgColor=0d1117" width="100%" />
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1200&color=58a6ff&center=true&vCenter=true&width=660&height=28&lines=Systems%20built%20right;Indonesian%20engineer%20%E2%80%A2%20TypeScript%20%E2%80%A2%20React%20%E2%80%A2%20Kotlin" alt="typing" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2600&pause=1400&color=8b949e&center=true&vCenter=true&width=680&height=22&lines=%24+whoami+%E2%80%94+ahmd4vd+%E2%80%A2+Ahmad+%28ID%29;%24+stack+--daily+%E2%80%94+TS+%2B+React+%E2%80%A2+Kotlin+%2B+Compose+%E2%80%A2+Go+%2B+Python;%24+shipped+%E2%80%94+K-12-reverse+41%E2%98%85+%E2%80%A2+Fable5res+13%E2%98%85" alt="typing" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmdd4vd&label=views&color=58a6ff&style=flat-square&labelColor=21262d" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=ahmdd4vd&label=views&color=8b949e&style=flat-square&labelColor=21262d" alt="views" />
   <img src="https://img.shields.io/github/followers/ahmdd4vd?label=followers&style=flat-square&labelColor=21262d&color=0d1117&logo=github&logoColor=58a6ff" alt="followers" />
-  <img src="https://img.shields.io/badge/location-Indonesia-0d1117?style=flat-square&labelColor=21262d&color=0d1117&logoColor=58a6ff" alt="location" />
+  <a href="https://www.instagram.com/ahmaddvd_01"><img src="https://img.shields.io/badge/ahmaddvd__01-0d1117?style=flat-square&labelColor=21262d&color=0d1117&logo=instagram&logoColor=8b949e" alt="ig" /></a>
 </p>
 
-<p align="center">
-  <sub style="color:#8b949e;letter-spacing:0.08em">INDONESIAN ENGINEER — DAILY TYPESCRIPT REACT AND KOTLIN COMPOSE. GO AND PYTHON WHERE IT COUNTS.</sub>
-</p>
+<div align="center">
 
----
+<!-- window chrome -->
+<img src="https://img.shields.io/badge/%E2%97%8F%20%E2%97%8F%20%E2%97%8F%20ahmd4vd%20%E2%80%94%20zsh%20%E2%80%94%2080x24-0D1117?style=flat&labelColor=0D1117&color=0D1117" alt="window chrome" />
 
-<p align="center"><sub style="color:#8b949e;letter-spacing:0.08em">ABOUT — 01</sub></p>
+</div>
 
-### Systems built right
+```bash
+$ whoami
+  ahmd4vd — Ahmad · Indonesia — engineer
 
-```ts
-const ahmd4vd = {
-  handle: "ahmd4vd",
-  location: "Indonesia",
-  focus: "Systems built right",
-  daily: ["TypeScript + React", "Kotlin + Jetpack Compose", "Go + Python"],
-  data: ["PostgreSQL", "MongoDB"],
-} as const;
+$ stack --daily
+  TypeScript + React  ·  Kotlin + Jetpack Compose  ·  Go + Python
+
+$ stack --data
+  PostgreSQL · MongoDB  — data that holds
+
+$ shipped
+  K-12-reverse  (Go · 41★ bulk ChatGPT automation)
+  Fable5res     (JS · 13★ · 4,665 Fable 5 traces distilled to signal)
+
+$ focus
+  automation that holds · interfaces that don't fight the user
 ```
 
-- Daily: TypeScript + React, Kotlin + Jetpack Compose, Go + Python. Postgres, MongoDB when needed.
-- Shipped K-12 reverse automation (41 stars) and Fable5Res distilling 4,665 traces into signal.
-- Fluid animations, premium feel, no gimmicks. Interfaces that get out of the way.
-
----
-
-<p align="center"><sub style="color:#8b949e;letter-spacing:0.08em">STACK — 2025</sub></p>
-
-### Stack
-
 <p align="center">
-  <sub style="color:#8b949e;letter-spacing:0.08em">LANGUAGES</sub><br/>
-  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=58a6ff&labelColor=21262d&color=21262d" alt="ts" />
-  <img src="https://img.shields.io/badge/Kotlin-0d1117?style=flat-square&logo=kotlin&logoColor=58a6ff&labelColor=21262d&color=21262d" alt="kotlin" />
-  <img src="https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=58a6ff&labelColor=21262d&color=21262d" alt="go" />
-  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=58a6ff&labelColor=21262d&color=21262d" alt="python" />
-</p>
-
-<p align="center">
-  <sub style="color:#8b949e;letter-spacing:0.08em">FRONTEND &amp; MOBILE</sub><br/>
-  <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=58a6ff&labelColor=21262d&color=21262d" alt="react" />
-  <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=58a6ff&labelColor=21262d&color=21262d" alt="next" />
-  <img src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=58a6ff&labelColor=21262d&color=21262d" alt="tailwind" />
-</p>
-
-<p align="center">
-  <sub style="color:#8b949e;letter-spacing:0.08em">BACKEND &amp; DATA</sub><br/>
-  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=58a6ff&labelColor=21262d&color=21262d" alt="postgres" />
-  <img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=58a6ff&labelColor=21262d&color=21262d" alt="mongodb" />
+  <sub style="color:#8b949e">Go · Python · Kotlin · TypeScript · React / Next · Tailwind · PostgreSQL · MongoDB · Docker</sub><br/>
+  <sub style="color:#484f58">daily: TS + React + Compose · Go + Python where it counts · data: PG / Mongo</sub>
 </p>
 
 ---
