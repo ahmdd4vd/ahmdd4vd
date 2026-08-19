@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&height=130&section=header&text=ahmd4vd&fontSize=54&fontColor=c9d1d9&fontAlign=50&fontAlignY=38&desc=Ahmad%20%E2%80%94%20Indonesia%20%E2%80%A2%20Go%20%E2%80%A2%20Python%20%E2%80%A2%20Kotlin%20%E2%80%A2%20TypeScript&descSize=12&descAlign=50&descAlignY=60&stroke=21262d&strokeWidth=0&bgColor=0d1117" width="100%" />
+<img src="assets/banner.svg" width="100%" alt="ahmd4vd" />
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2600&pause=1400&color=8b949e&center=true&vCenter=true&width=680&height=22&lines=%24+whoami+%E2%80%94+ahmd4vd+%E2%80%A2+Ahmad+%28ID%29;%24+stack+--daily+%E2%80%94+TS+%2B+React+%E2%80%A2+Kotlin+%2B+Compose+%E2%80%A2+Go+%2B+Python;%24+shipped+%E2%80%94+K-12-reverse+41%E2%98%85+%E2%80%A2+Fable5res+13%E2%98%85" alt="typing" /></a>
